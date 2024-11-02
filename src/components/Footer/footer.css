@@ -1,0 +1,9 @@
+div#beforeFoot {
+  margin-left: 13%;
+  margin-top: -16%;
+}
+
+@media (max-width: 600px) {
+  margin-left: 4%;
+  margin-top: -70%;
+}
